@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F1/mqxcjpTNMncYXrKilxjw5KcbILC5kKevcaxqdNJc=",
+  "Source": "BookManagementApi_GO",
+  "BasePath": "_content/BookManagementApi_GO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
